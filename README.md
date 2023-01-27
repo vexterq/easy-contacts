@@ -16,12 +16,16 @@ To use Easy Contacts, you will need to have Python 3 and SQLite installed on you
 
 In addition to these requirements, you will also need to install the prettytable library, which can be done by running the following command in your command prompt:
 
-```pip install prettytable```
+```python
+pip install prettytable
+```
 
 ## Usage
 To run the application, simply navigate to the directory where the Easy Contacts files are located and run the main.py file.
 
-```python main.py```
+```python 
+python main.py
+```
 
 You will be presented with the main menu, where you can select the action you would like to perform. Follow the prompts to complete the action.
 
