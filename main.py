@@ -10,7 +10,7 @@ def setup():
     """
     database_name = 'phonebook.db'
     database = Database(database_name)
-    database.create_table()
+    database._create_table()
 
 
 def get_user_choice():
