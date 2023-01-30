@@ -8,7 +8,6 @@ The application allows users to perform the following actions:
 * Remove a contact
 * Modify a contact
 * View all contacts
-* View contacts by group
 * Exit
 ## Installation
 
